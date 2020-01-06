@@ -1,4 +1,5 @@
 # GitGud
 Git &amp; GitHub Tutorial/Demonstration Repo
 
-TWo Towers is best film
+Sneaky little hobbitses. Wicked, tricksy, false!
+Sneaky little hobbitses. Wicked, tricksy, false!
