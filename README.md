@@ -1,6 +1,8 @@
 # GitGud
 Git &amp; GitHub Tutorial/Demonstration Repo
 
+some quotes taken from https://www.goalcast.com/2018/03/12/wise-memorable-lord-rings-quotes/ for git tutorial purposes
+
 It’s the job that’s never started as takes longest to finish.
 
 — Sam Gamgee
@@ -71,7 +73,6 @@ All we have to decide is what to do with the time that is given us.
 
 — Gandalf
 
-lord-of-the-rings-quote-deciding-what-to-do-with-time
 
 Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be eager to deal out death in judgement. For even the very wise cannot see all ends.
 
