@@ -3,6 +3,13 @@ Git &amp; GitHub Tutorial/Demonstration Repo
 
 some quotes taken from https://www.goalcast.com/2018/03/12/wise-memorable-lord-rings-quotes/ for git tutorial purposes
 
+
+On n'entre pas comme ça au Mordor.
+
+- Boromir
+
+
+
 It’s the job that’s never started as takes longest to finish.
 
 — Sam Gamgee
