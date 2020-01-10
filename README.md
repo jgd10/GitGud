@@ -25,7 +25,8 @@ It is useless to meet revenge with revenge: it will heal nothing.
 
 — Frodo Baggins
 
- 
+Yeah it's okay but I mean it's no Santa Claus Conquers the Martians
+- James D 
 
 Deeds will not be less valiant because they are unpraised.
 
