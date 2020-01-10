@@ -13,7 +13,9 @@ But in the end it’s only a passing thing, this shadow; even darkness must pass
 
 — Sam Gamgee
 
- 
+They're taking the hobbits Isengard
+
+- Legolas
 
 It is not the strength of the body, but the strength of the spirit.
 
