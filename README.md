@@ -146,6 +146,15 @@ Memory is not what the heart desires. That is only a mirror.
 — Gimli
 
 
+Winter is coming
+
+— Ned Stark
+
+-----------------------@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-----------------------------
+
+Do not delete this code! No....
+
+
 Gollum!
 
 -Gollum
@@ -153,3 +162,4 @@ Gollum!
 My precious 
 
 -Gollum 
+
