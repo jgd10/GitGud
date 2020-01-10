@@ -3,13 +3,12 @@ Git &amp; GitHub Tutorial/Demonstration Repo
 
 some quotes taken from https://www.goalcast.com/2018/03/12/wise-memorable-lord-rings-quotes/ for git tutorial purposes
 
-
 On n'entre pas comme ça au Mordor.
 
 - Boromir
 
 
-
+`
 It’s the job that’s never started as takes longest to finish.
 
 — Sam Gamgee
@@ -36,6 +35,7 @@ It is useless to meet revenge with revenge: it will heal nothing.
 
 Yeah it's okay but I mean it's no Santa Claus Conquers the Martians
 - James D 
+
 
 Deeds will not be less valiant because they are unpraised.
 
