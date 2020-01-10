@@ -135,3 +135,8 @@ Memory is not what the heart desires. That is only a mirror.
 
 — Gimli
 
+
+Gollum!
+
+-Gollum
+
