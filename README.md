@@ -31,6 +31,8 @@ Deeds will not be less valiant because they are unpraised.
 
 — Aragorn
 
+
+
 lord-of-the-rings-quote-valliant-deeds
 
 Even the smallest person can change the course of history.
@@ -72,6 +74,7 @@ He that breaks a thing to find out what it is, has left the path of wisdom.
 All we have to decide is what to do with the time that is given us.
 
 — Gandalf
+
 
 
 Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be eager to deal out death in judgement. For even the very wise cannot see all ends.
@@ -139,3 +142,4 @@ Winter is coming
 -----------------------@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-----------------------------
 
 Do not delete this code! No....
+
