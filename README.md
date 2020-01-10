@@ -5,7 +5,7 @@ some quotes taken from https://www.goalcast.com/2018/03/12/wise-memorable-lord-r
 
 It’s the job that’s never started as takes longest to finish.
 
-— Sam Gamgee
+— Sam Gamgee Dundee
 
  
 
