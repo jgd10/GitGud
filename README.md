@@ -150,7 +150,6 @@ Winter is coming
 
 — Ned Stark
 
-
 For Frodo!
 
 - Aragorn
