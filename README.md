@@ -155,7 +155,7 @@ For Frodo!
 - Aragorn
 
 
-Sneaky little Hobbitses
+Sneaky little Hobbitses!
 
 - Gollum
 
