@@ -168,3 +168,6 @@ My precious
 
 -Gollum 
 
+I'm the King of the world!
+
+- Jack
