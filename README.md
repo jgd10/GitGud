@@ -168,3 +168,7 @@ My precious
 
 -Gollum 
 
+
+This is Nenya, the Ring of Adamant, and I am its keeper.
+- Galadriel
+
