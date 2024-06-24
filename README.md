@@ -11,7 +11,7 @@ On n'entre pas comme ça au Mordor.
 `
 It’s the job that’s never started as takes longest to finish.
 
-— Sam Gamgee
+— Sam Gamgee Dundee
 
  
 LAlalalalalalala!!!!! ho di ho ho ho
