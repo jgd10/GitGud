@@ -1,4 +1,7 @@
 # GitGud
+
+Hello from U3
+
 Git &amp; GitHub Tutorial/Demonstration Repo
 
 some quotes taken from https://www.goalcast.com/2018/03/12/wise-memorable-lord-rings-quotes/ for git tutorial purposes
